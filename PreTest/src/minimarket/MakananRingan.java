@@ -6,7 +6,7 @@ public class MakananRingan extends Produk {
         super(namaProduk, harga);
         this.rasa = rasa;
     }
-    @override
+    @override 
     public void tampilkanDetail() {
         super.tampilkanDetail();
         System.out.println("Rasa: " + rasa);

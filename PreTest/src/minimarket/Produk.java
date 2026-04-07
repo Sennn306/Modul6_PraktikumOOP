@@ -21,5 +21,5 @@ public class Produk {
         System.out.println("Harga: " + harga);
     }
 
-    
+
 }
